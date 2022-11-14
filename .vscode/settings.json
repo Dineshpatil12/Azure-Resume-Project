@@ -1,0 +1,10 @@
+{
+    "azureFunctions.deploySubpath": "bin/Release/net6.0/publish",
+    "azureFunctions.projectLanguage": "C#",
+    "azureFunctions.projectRuntime": "~4",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.preDeployTask": "publish (functions)",
+    "appService.defaultWebAppToDeploy": "/subscriptions/648c0026-cfcb-49e4-a306-919ed060eda0/AppServices/subscriptions/648c0026-cfcb-49e4-a306-919ed060eda0/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/GetResumeProject",
+    "appService.deploySubpath": "backend\\api",
+    "azureFunctions.templateFilter": "All"
+}
